@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,20 +35,12 @@
   ],
   "Addon": [
     {
-        "name": "Goldfish (and Flishes) Add-On",
-        "role": "Have you ever dreamed about your own pet fish, that will help in aquatic adventures, that will guard you? It's comes true - now in rivers of vanilla Minecraft you may found new type of fish - Goldfish! And also this add-on adds flying fish - Flish.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Arkcraft/2/1.jpeg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Arkcraft/2/Goldfish_AddOn.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Arkcraft/2/2.jpeg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Arkcraft/2/3.jpeg"
-    },
-    {
-        "name": "Arkcraft Add-on 2.1.2",
-        "role": "This amazing addon for Minecraft, adds dinosaurs based on the famous Ark video game.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Arkcraft/3/2.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Arkcraft/3/ArkCraft Addon v2.1.2.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Arkcraft/3/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Arkcraft/3/3.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Map": [
